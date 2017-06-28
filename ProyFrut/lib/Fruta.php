@@ -14,7 +14,7 @@ var $descripcion;
         else
             return false;
         
-        $sql="SELECT * FROM fruta WHERE nomfruta='$this->nomfruta'";
+        $sql="SELECT * FROM fruta ORDER BY nomfruta ";
         
         $resultado=$db->query($sql);
                
