@@ -1,0 +1,35 @@
+body{
+    background-image: url('../imagenes/upfeathers.png');
+}
+
+.jumbotron{
+    background-color: #336600;
+    color: white;
+     
+}
+
+.panel-heading{
+    background-color: #336600 !important;
+    color: white !important;
+}
+
+.navbar-brand:link, .navbar-brand:visited{
+    color: #ffeb99 !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active{
+    color: #ffad33 !important;
+}
+
+.navbar{
+    background-color: #336600 !important;
+}
+
+#navbar li a:link, #navbar li a:visited{
+    color: #ffeb99 !important;
+}
+
+#navbar li a:hover, #navbar li a:active{
+    color: #ffad33 !important;
+}
+
