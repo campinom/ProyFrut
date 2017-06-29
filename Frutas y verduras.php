@@ -41,8 +41,11 @@
                                 </div>
                                 <div class="panel panel-body">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" placeholder="Nombre de fruta o verdura">
+                                        <input type="text" class="form-control" placeholder="Nombre de fruta o verdura">                                       
+                                        <br>
+                                        <button class="form-control">Buscar</button>
                                 </div>
+                                   
         </nav>
         
         

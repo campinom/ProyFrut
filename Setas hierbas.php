@@ -42,6 +42,8 @@
                         <div class="panel panel-body">
                             <div class="form-group">
                                 <input type="text" class="form-control" placeholder="Busqueda de setas o hierbas">
+                                <br>
+                                        <button class="form-control">Buscar</button>
                             </div>
         </nav>
         <script src="js/jquery.min.js"></script>
